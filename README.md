@@ -3,8 +3,9 @@
 #### I'm Kayleigh - a UX Designer by day ☼ and a cyberpunk city explorer 👾 by night ☾
 
 👩‍💻 Freelance UX Designer at [radius](https://radius.to);<br>
-⚙️ I use daily: `Figma`, `Adobe XD`, `Trello`;<br>
+⚙️ I use daily: `Figma`, `Adobe XD` and `Trello`;<br>
 🌱 Learning all about **User Experience, Accessibility**;<br>
+📝 Currently completing the [Google UX Professional Certification](https://www.coursera.org/professional-certificates/google-ux-design)<br>
 💬 Ping me about **UX**, **design**, **mockups**, **prototyping**, **design thinking**;<br>
 
 <!--
