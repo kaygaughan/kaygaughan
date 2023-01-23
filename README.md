@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there 👋
+
+- I'm Kayleigh, a UX Designer based in the UK.
 
 <!--
 **kaygaughan/kaygaughan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
