@@ -23,4 +23,5 @@ See below for a few samples of my work.
   <img src="https://github.com/kaygaughan/kaygaughan/assets/47720610/e4815968-cae1-4b0b-9028-763d99803b49" width="180px" style="margin: 20px"/>
 </div>
 
-
+Here you can view the Hi-Fi prototype and click through the app to experience it on a mobile device  
+https://www.figma.com/file/5BUTihGpyxANoOWmmOKigv/Granite-Arcade?type=design&node-id=216%3A1387&mode=design&t=Fbw2YNYttTiRmuwk-1
